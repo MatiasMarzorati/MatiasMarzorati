@@ -12,5 +12,6 @@ My goal is to challenge myself every day, especially in relation to my current c
 
 ## Connect with me
 <ul>
-  <li><a href="https://www.linkedin.com/in/matias-marzorati-737534238/">LinkedIn</a></li>
+  <li><a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your name" height="30" width="40" /></a></li>
+   
 </ul>
