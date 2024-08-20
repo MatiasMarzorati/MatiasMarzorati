@@ -2,7 +2,7 @@
 
 - Software Engineer at ISSP
 - Software engineering student
-- CEO an Co-Founder of @mazzodevelopments
+- Co-Founder of @mazzodevelopments
 
 I consider myself a responsible, organized and active person.
 
