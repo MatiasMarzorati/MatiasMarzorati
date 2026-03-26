@@ -5,7 +5,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Moleculer](https://img.shields.io/badge/-Moleculer-3d3d3d?style=flat-square&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
@@ -16,15 +15,15 @@
 
 ## Current Projects
 
-- <img src="logo.png" height="20" style="vertical-align:middle"/> **[Timo](https://soytimo.com)** – Insurance policy management app with AI chatbot
-- <img src="Perfil_5.png" height="20" style="vertical-align:middle"/> **[Hábitat Conecta](https://habitatconecta.com)** – Entrepreneurship platform connecting 250+ businesses
-- <img src="ghost-logo.png" height="20" style="vertical-align:middle"/> **Ghost-Guardian** – Network-level parental control system
+- <img src="logo.png" height="20" style="vertical-align:-5px"/> **[Timo](https://soytimo.com)** – Insurance policy management app with AI chatbot
+- <img src="Perfil_5.png" height="20" style="vertical-align:-5px"/> **[Hábitat Conecta](https://habitatconecta.com)** – Entrepreneurship platform connecting 250+ businesses
+- <img src="ghost-logo.png" height="20" style="vertical-align:-5px"/> **Ghost-Guardian** – Network-level parental control system
 
 ## Experience
 
-- <img src="image.png" height="20" style="vertical-align:middle"/> **[Tesacom](https://www.tesacom.com.ar)** – SSr Software Engineer *(Current)* — Microservices with Moleculer & Node.js
-- <img src="logo.webp" height="20" style="vertical-align:middle"/> **[Mazzo Developments](https://github.com/mazzodevelopments)** – Co-Founder | Lead Backend Architect
-- <img src="issp (1).jpg" height="20" style="vertical-align:middle"/> **[Instituto de Seguridad Pública](https://www.issp.gov.ar)** – FullStack Developer — Internal systems in Java & PHP
+- <img src="image.png" height="20" style="vertical-align:-5px"/> **[Tesacom](https://www.tesacom.com.ar)** – SSr Software Engineer *(Current)* — Microservices with Moleculer & Node.js
+- <img src="logo.webp" height="20" style="vertical-align:-5px"/> **[Mazzo Developments](https://github.com/mazzodevelopments)** – Co-Founder | Lead Backend Architect
+- <img src="issp (1).jpg" height="20" style="vertical-align:-5px"/> **[Instituto de Seguridad Pública](https://www.issp.gov.ar)** – FullStack Developer — Internal systems in Java & PHP
 
 ## What I'm Doing
 
