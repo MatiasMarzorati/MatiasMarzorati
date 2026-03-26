@@ -15,35 +15,35 @@
 
 ## Current Projects
 
-<table>
+<table border="0" cellspacing="0" cellpadding="6">
   <tr>
-    <td><img src="logo.png" width="30" height="30"/></td>
-    <td><strong><a href="https://soytimo.com">Timo</a></strong> – Insurance policy management app with AI chatbot</td>
+    <td width="30"><img src="logo.png" width="20" height="20"/></td>
+    <td>• <strong><a href="https://soytimo.com">Timo</a></strong> – Insurance policy management app with AI chatbot</td>
   </tr>
   <tr>
-    <td><img src="Perfil_5.png" width="30" height="30"/></td>
-    <td><strong><a href="https://habitatconecta.com">Hábitat Conecta</a></strong> – Entrepreneurship platform connecting 250+ businesses</td>
+    <td width="30"><img src="Perfil_5.png" width="20" height="20"/></td>
+    <td>• <strong><a href="https://habitatconecta.com">Hábitat Conecta</a></strong> – Entrepreneurship platform connecting 250+ businesses</td>
   </tr>
   <tr>
-    <td><img src="ghost-logo.png" width="30" height="30"/></td>
-    <td><strong>Ghost-Guardian</strong> – Network-level parental control system</td>
+    <td width="30"><img src="ghost-logo.png" width="20" height="20"/></td>
+    <td>• <strong>Ghost-Guardian</strong> – Network-level parental control system</td>
   </tr>
 </table>
 
 ## Experience
 
-<table>
+<table border="0" cellspacing="0" cellpadding="6">
   <tr>
-    <td><img src="image.png" width="30" height="30"/></td>
-    <td><strong><a href="https://www.tesacom.com.ar">Tesacom</a></strong> – SSr Software Engineer <em>(Current)</em> — Microservices with Moleculer & Node.js</td>
+    <td width="30"><img src="image.png" width="20" height="20"/></td>
+    <td>• <strong><a href="https://www.tesacom.com.ar">Tesacom</a></strong> – SSr Software Engineer <em>(Current)</em> — Microservices with Moleculer & Node.js</td>
   </tr>
   <tr>
-    <td><img src="logo.webp" width="30" height="30"/></td>
-    <td><strong><a href="https://github.com/mazzodevelopments">Mazzo Developments</a></strong> – Co-Founder | Lead Backend Architect</td>
+    <td width="30"><img src="logo.webp" width="20" height="20"/></td>
+    <td>• <strong><a href="https://github.com/mazzodevelopments">Mazzo Developments</a></strong> – Co-Founder | Lead Backend Architect</td>
   </tr>
   <tr>
-    <td><img src="issp (1).jpg" width="30" height="30"/></td>
-    <td><strong><a href="https://www.issp.gov.ar">Instituto de Seguridad Pública</a></strong> – FullStack Developer — Internal systems in Java & PHP</td>
+    <td width="30"><img src="issp (1).jpg" width="20" height="20"/></td>
+    <td>• <strong><a href="https://www.issp.gov.ar">Instituto de Seguridad Pública</a></strong> – FullStack Developer — Internal systems in Java & PHP</td>
   </tr>
 </table>
 
