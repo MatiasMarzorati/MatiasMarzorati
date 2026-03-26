@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:shields.io)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:ileriayo.github.io)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:simpleicons.org)"
+    ]
+  }
+}
