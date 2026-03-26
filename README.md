@@ -15,15 +15,37 @@
 
 ## Current Projects
 
-- <img src="logo.png" height="16"/> **[Timo](https://soytimo.com)** – Insurance policy management app with AI chatbot
-- <img src="Perfil_5.png" height="16"/> **[Hábitat Conecta](https://habitatconecta.com)** – Entrepreneurship platform connecting 250+ businesses
-- <img src="ghost-logo.png" height="16"/> **Ghost-Guardian** – Network-level parental control system
+<table>
+  <tr>
+    <td><img src="logo.png" width="30" height="30"/></td>
+    <td><strong><a href="https://soytimo.com">Timo</a></strong> – Insurance policy management app with AI chatbot</td>
+  </tr>
+  <tr>
+    <td><img src="Perfil_5.png" width="30" height="30"/></td>
+    <td><strong><a href="https://habitatconecta.com">Hábitat Conecta</a></strong> – Entrepreneurship platform connecting 250+ businesses</td>
+  </tr>
+  <tr>
+    <td><img src="ghost-logo.png" width="30" height="30"/></td>
+    <td><strong>Ghost-Guardian</strong> – Network-level parental control system</td>
+  </tr>
+</table>
 
 ## Experience
 
-- <img src="image.png" height="16"/> **[Tesacom](https://www.tesacom.com.ar)** – SSr Software Engineer *(Current)* — Microservices with Moleculer & Node.js
-- <img src="logo.webp" height="16"/> **[Mazzo Developments](https://github.com/mazzodevelopments)** – Co-Founder | Lead Backend Architect
-- <img src="issp (1).jpg" height="16"/> **[Instituto de Seguridad Pública](https://www.issp.gov.ar)** – FullStack Developer — Internal systems in Java & PHP
+<table>
+  <tr>
+    <td><img src="image.png" width="30" height="30"/></td>
+    <td><strong><a href="https://www.tesacom.com.ar">Tesacom</a></strong> – SSr Software Engineer <em>(Current)</em> — Microservices with Moleculer & Node.js</td>
+  </tr>
+  <tr>
+    <td><img src="logo.webp" width="30" height="30"/></td>
+    <td><strong><a href="https://github.com/mazzodevelopments">Mazzo Developments</a></strong> – Co-Founder | Lead Backend Architect</td>
+  </tr>
+  <tr>
+    <td><img src="issp (1).jpg" width="30" height="30"/></td>
+    <td><strong><a href="https://www.issp.gov.ar">Instituto de Seguridad Pública</a></strong> – FullStack Developer — Internal systems in Java & PHP</td>
+  </tr>
+</table>
 
 ## What I'm Doing
 
