@@ -15,15 +15,15 @@
 
 ## Current Projects
 
-- <img src="logo.png" height="20" style="vertical-align:-5px"/> **[Timo](https://soytimo.com)** – Insurance policy management app with AI chatbot
-- <img src="Perfil_5.png" height="20" style="vertical-align:-5px"/> **[Hábitat Conecta](https://habitatconecta.com)** – Entrepreneurship platform connecting 250+ businesses
-- <img src="ghost-logo.png" height="20" style="vertical-align:-5px"/> **Ghost-Guardian** – Network-level parental control system
+- <img src="logo.png" height="16"/> **[Timo](https://soytimo.com)** – Insurance policy management app with AI chatbot
+- <img src="Perfil_5.png" height="16"/> **[Hábitat Conecta](https://habitatconecta.com)** – Entrepreneurship platform connecting 250+ businesses
+- <img src="ghost-logo.png" height="16"/> **Ghost-Guardian** – Network-level parental control system
 
 ## Experience
 
-- <img src="image.png" height="20" style="vertical-align:-5px"/> **[Tesacom](https://www.tesacom.com.ar)** – SSr Software Engineer *(Current)* — Microservices with Moleculer & Node.js
-- <img src="logo.webp" height="20" style="vertical-align:-5px"/> **[Mazzo Developments](https://github.com/mazzodevelopments)** – Co-Founder | Lead Backend Architect
-- <img src="issp (1).jpg" height="20" style="vertical-align:-5px"/> **[Instituto de Seguridad Pública](https://www.issp.gov.ar)** – FullStack Developer — Internal systems in Java & PHP
+- <img src="image.png" height="16"/> **[Tesacom](https://www.tesacom.com.ar)** – SSr Software Engineer *(Current)* — Microservices with Moleculer & Node.js
+- <img src="logo.webp" height="16"/> **[Mazzo Developments](https://github.com/mazzodevelopments)** – Co-Founder | Lead Backend Architect
+- <img src="issp (1).jpg" height="16"/> **[Instituto de Seguridad Pública](https://www.issp.gov.ar)** – FullStack Developer — Internal systems in Java & PHP
 
 ## What I'm Doing
 
